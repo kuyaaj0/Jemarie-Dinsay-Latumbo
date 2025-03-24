@@ -13,6 +13,10 @@
     background: linear-gradient(to right, rgb(255,255,255), rgb(254,215,173));
   }
 
+  #photojem {
+      border-radius: 50%;
+  }
+
   .container {
     width: 80%;
     margin: 0 auto;
